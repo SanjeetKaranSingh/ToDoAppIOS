@@ -19,7 +19,7 @@ class CustonTableViewCell: UITableViewCell {
     @IBOutlet weak var cityLabel: UILabel!
     
     let weatherBaseURL = "https://api.openweathermap.org/data/2.5/weather"
-    let apiKey = "3ead0f5d3d5e5701ada9ad4baee831cb"
+    let apiKey = "#API KEy"
     var weatherData:cityWeather?
     
     var imageURL:String?{
